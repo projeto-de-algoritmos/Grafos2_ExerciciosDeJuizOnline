@@ -20,17 +20,66 @@ O projeto está organizado em diretórios individuais, cada uma contendo soluç�
 
 ## Screenshots
 
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### [A - Dark roads](./A/A.pdf)
+
+Submissão aceita no juiz virtual beecrowd.
+![](./A/A.png)
+
+### [B - Travel by car](https://atcoder.jp/contests/abc143/tasks/abc143_e)
+
+Submissão aceita no juiz virtual atcoder.
+![](./B/B.png)
+
+Informações adicionais de submissão.
+![](./B/B_sub-info.png)
 
 ## Instalação
 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++ e Python<br>
+
+Para executar o Exercício A, você deve ter a seguinte linguagem instalada em sua máquina:
+
+- Python 3.x
+
+Para executar os Exercício B, você deve ter a seguinte linguagem instalada em sua máquina:
+
+- C++
+
+Certifique-se de que o compilador C++ esteja corretamente instalado e configurado em seu ambiente antes de prosseguir com a execução do exercício.
 
 ## Uso
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+### [A - Dark Roads](./A/A.pdf)
+
+Para compilar e executar o Exercício A digite no seu terminal os seguintes comandos:
+
+Para compilar e executar:
+
+```
+$ python3 A.py
+```
+
+### [B - Travel by car](https://atcoder.jp/contests/abc143/tasks/abc143_e)
+
+Para compilar e executar o Exercício B digite no seu terminal os seguintes comandos:
+
+Para compilar:
+
+```
+$ g++ B.cpp -o app
+```
+
+Para executar os casos de teste (substitua X por 1 ou 2):
+
+```
+$ ./app < entradaX.txt > saida.txt
+```
+
+Para conferir se a resposta está correta (substitua X por 1 ou 2):
+
+```
+$ diff saida.txt saidaX_desejada.txt
+```
 
 ## Outros
 

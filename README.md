@@ -119,6 +119,7 @@ Para conferir se a resposta está correta:
 $ diff saida.txt saida1_desejada.txt
 ```
 
-## Outros
+## Apresentação
+> - [Vídeo de apresentação](./apresentacao-grafos2-pauloeabraao.rar)
 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+> - [Link para o vídeo de apresentação no youtube](https://youtu.be/JQgIr2m9bcA)

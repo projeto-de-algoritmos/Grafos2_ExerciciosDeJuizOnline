@@ -120,6 +120,6 @@ $ diff saida.txt saida1_desejada.txt
 ```
 
 ## Apresentação
-> - [Vídeo de apresentação](./apresentacao-grafos2-pauloeabraao.rar)
+> - [Vídeo de apresentação](./apresentacao.rar)
 
 > - [Link para o vídeo de apresentação no youtube](https://youtu.be/JQgIr2m9bcA)

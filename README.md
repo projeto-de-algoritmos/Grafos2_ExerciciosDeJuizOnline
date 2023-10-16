@@ -59,7 +59,7 @@ Para compilar e executar:
 $ python3 A.py
 ```
 
-### [B - Travel by car](https://atcoder.jp/contests/abc143/tasks/abc143_e)
+### [B - Travel by car](./B/B.pdf)
 
 Para compilar e executar o Exercício B digite no seu terminal os seguintes comandos:
 
